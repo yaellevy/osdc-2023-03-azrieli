@@ -2,9 +2,12 @@
     "name": "Yael Levi",
     "github": "yaellevy",
     "devto": "yaellevy",
-    "posts": [
+     "posts": [
         {
-            "url": "https://dev.to/yaellevy/my-new-devto-post-5bj1"
+            "url":  "https://dev.to/yaellevy/my-new-devto-post-5bj1"
+        },
+        {
+            "url": "https://dev.to/yaellevy/lesson-2-15l"
         }
     ],
     "projects": [
